@@ -1,10 +1,12 @@
 import { MdShoppingCart } from "react-icons/md";
+import { Link } from "react-router-dom";
+import "./cartWidget.css";
 
 export const CartWidget = () => {
   return (
-    <div>
+    <Link to="/cart">
       <MdShoppingCart />
       <span>0</span>
-    </div>
+    </Link>
   );
 };
