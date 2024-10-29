@@ -4,8 +4,8 @@ import "./cartWidget.css";
 
 export const CartWidget = () => {
   return (
-    <Link to="/cart">
-      <MdShoppingCart />
+    <Link to="/cart" className="link">
+      <MdShoppingCart className="linkIcon" />
       <span>0</span>
     </Link>
   );

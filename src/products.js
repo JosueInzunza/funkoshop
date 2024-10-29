@@ -81,7 +81,7 @@ export let products = [
   },
   {
     id: "9",
-    title: "mike wasauski",
+    title: "wasauski",
     price: 540,
     stock: 5,
     description: "personaje de monsters inc",

@@ -1,8 +1,9 @@
 import { Link } from "react-router-dom";
+import "./card.css";
 
 export const Card = ({ title, price, stock, image, id }) => {
   return (
-    <div style={{ border: "2px solid black", width: "200px", height: "200px" }}>
+    <div className={"card"}>
       <img src={image} alt="" style={{ width: "100px" }} />
       <h2>Titulo: {title}</h2>
       <h3>Precio: {price}</h3>

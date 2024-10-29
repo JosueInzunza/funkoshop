@@ -20,13 +20,19 @@ export const Navbar = ({ darkMode }) => {
             }}
           />
         </Link>
-        <ul style={{ display: "flex", gap: "10px" }}>
-          <Link to="/category/anime">Anime</Link>
-          <Link to="/category/marvel">Marvel</Link>
-          <Link to="/category/disney">Disney</Link>
+        <ul className={"category"}>
+          <Link to="/category/anime" className={"link"}>
+            Anime
+          </Link>
+          <Link to="/category/marvel" className={"link"}>
+            Marvel
+          </Link>
+          <Link to="/category/disney" className={"link"}>
+            Disney
+          </Link>
         </ul>
 
-        <CartWidget />
+        <CartWidget className={"link"} />
       </div>
     </>
   );
