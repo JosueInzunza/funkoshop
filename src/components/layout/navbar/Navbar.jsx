@@ -12,7 +12,7 @@ export const Navbar = ({ darkMode }) => {
       >
         <Link to="/">
           <img
-            src="https://res.cloudinary.com/dnqfh2chg/image/upload/v1727995204/images_hthelg.png"
+            src="https://res.cloudinary.com/duntko49r/image/upload/v1730242815/funkoshop-logo_txgvim.png"
             alt=""
             style={{
               width: "100px",

@@ -5,7 +5,7 @@ export let products = [
     price: 500,
     description: "protagonista de anime jujutsu kaisen",
     imageUrl:
-      "https://res.cloudinary.com/dnqfh2chg/image/upload/v1686581567/images_teykwq.jpg",
+      "https://res.cloudinary.com/duntko49r/image/upload/v1730242815/funko-itadori_rjk7zy.jpg",
     stock: 12,
     category: "anime",
   },
@@ -17,7 +17,7 @@ export let products = [
     description: "protagonista de anime naruto",
     category: "anime",
     imageUrl:
-      "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669430010/foc364fsakkzmausrovn.jpg",
+      "https://res.cloudinary.com/duntko49r/image/upload/v1730242814/funko-naruto_kl7uek.jpg",
   },
   {
     id: "3",
@@ -27,7 +27,7 @@ export let products = [
     description: "personaje e jujutsu kaisen",
     category: "anime",
     imageUrl:
-      "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669430165/images_lujpmr.jpg",
+      "https://res.cloudinary.com/duntko49r/image/upload/v1730242814/funko-gojo_jdv7e6.jpg",
   },
   {
     id: "4",
@@ -37,7 +37,7 @@ export let products = [
     description: "personaje de marvel",
     category: "marvel",
     imageUrl:
-      "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669430220/rtokwmt3j03bblbfhwhb.jpg",
+      "https://res.cloudinary.com/duntko49r/image/upload/v1730242814/funko-ironman_hh4frm.jpg",
   },
   {
     id: "5",
@@ -45,7 +45,7 @@ export let products = [
     price: 650,
     description: "personaje de marvel",
     imageUrl:
-      "https://res.cloudinary.com/dnqfh2chg/image/upload/v1686581567/images_teykwq.jpg",
+      "https://res.cloudinary.com/duntko49r/image/upload/v1730242814/funko-spiderman_yjev4r.jpg",
     stock: 12,
     category: "marvel",
   },
@@ -57,17 +57,17 @@ export let products = [
     description: "personaje de marvel",
     category: "marvel",
     imageUrl:
-      "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669430010/foc364fsakkzmausrovn.jpg",
+      "https://res.cloudinary.com/duntko49r/image/upload/v1730242814/funko-thor_imgohv.webp",
   },
   {
     id: "7",
-    title: "solivan",
+    title: "sullivan",
     price: 640,
     stock: 5,
     description: "personaje de monsters inc",
     category: "disney",
     imageUrl:
-      "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669430165/images_lujpmr.jpg",
+      "https://res.cloudinary.com/duntko49r/image/upload/v1730242814/funko-sullivan_zhqbjr.avif",
   },
   {
     id: "8",
@@ -77,7 +77,7 @@ export let products = [
     description: "personaje de monsters inc",
     category: "disney",
     imageUrl:
-      "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669430220/rtokwmt3j03bblbfhwhb.jpg",
+      "https://res.cloudinary.com/duntko49r/image/upload/v1730242814/funko-randall_fk85dd.webp",
   },
   {
     id: "9",
@@ -87,6 +87,6 @@ export let products = [
     description: "personaje de monsters inc",
     category: "disney",
     imageUrl:
-      "https://res.cloudinary.com/dnqfh2chg/image/upload/v1669430220/rtokwmt3j03bblbfhwhb.jpg",
+      "https://res.cloudinary.com/duntko49r/image/upload/v1730242815/funko-wasauski_yhc02s.jpg",
   },
 ];
