@@ -32,7 +32,7 @@ export const Navbar = ({ darkMode }) => {
           </Link>
         </ul>
 
-        <CartWidget className={"link"} />
+        <CartWidget />
       </div>
     </>
   );
